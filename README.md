@@ -9,11 +9,11 @@
 
 
 - 🌱 Currently working with **Laravel** and **Vue** for web development.
-- 
+  
 - 📫 How to reach me **juanacostapereira@gmail.com**
 
 - ⚡ Fun fact: Technology and innovation drive my passion.
-- 
+  
 <br>
 
 <h3 align="left">Connect with me:</h3>
