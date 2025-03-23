@@ -51,8 +51,8 @@
   <a href="https://vuejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40" />
   </a>
-  <a href="https://filamentphp.com" target="_blank" rel="noreferrer">
-    <img src="https://filamentphp.com/wp-content/uploads/2021/10/filament-logo.svg" alt="filamentphp" width="40" height="40" />
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40" height="40" />
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="40" height="40" />
