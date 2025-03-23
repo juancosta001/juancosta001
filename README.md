@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40" />
   </a>
   <a href="https://vuejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40" />
@@ -55,7 +55,7 @@
     <img src="https://filamentphp.com/wp-content/uploads/2021/10/filament-logo.svg" alt="filamentphp" width="40" height="40" />
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://dbeaver.io/wp-content/uploads/2022/06/dbeaver-logo.svg" alt="dbeaver" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" alt="dbeaver" width="40" height="40" />
   </a>
 </p>
 
